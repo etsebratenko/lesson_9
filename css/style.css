@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+
+.layer1,
+.layer2,
+.layer3,
+.layer4,
+.layer5 {
+  padding: 20px;
+  border: 5px solid black;
+  margin: 20px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.block1,
+.block2,
+.block3,
+.block4,
+.block5,
+.block6,
+.block7,
+.block8,
+.block9,
+.block10,
+.block11 {
+  margin: 10px;
+}
+
+.block1 {
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+.block2 {
+  background-color: chocolate;
+  height: 100px;
+  width: 100px;
+  float: right;
+}
+.block3 {
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+.block4,
+.block5,
+.block6,
+.block7 {
+  background-color: chocolate;
+  height: 50px;
+  width: 50px;
+  float: right;
+}
+.block8,
+.block9 {
+  background-color: chocolate;
+  height: 100px;
+  width: 100px;
+  float: right;
+}
+.block10,
+.block11 {
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+.block12 {
+  background-color: chocolate;
+  width: 200px;
+  height: 220px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.block13,
+.block14 {
+  width: 200px;
+  height: 100px;
+  background-color: grey;
+  float: right;
+  margin-top: 20px;
+
+}
+.block15 {
+  background-color: chocolate;
+  width: 200px;
+  height: 220px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.block16,
+.block17 {
+  width: 200px;
+  height: 100px;
+  background-color: grey;
+  float: right;
+  margin-top: 20px;
+}
+
+.mini-layer1 {
+  float: right;
+  margin: 20px;
+}
+.mini-layer2 {
+  float: right;
+  margin: 20px;
+}
+.mini-layer3 {
+  float: left;
+  margin: 20px;
+}
+.main {
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+}
+.main1 {
+  float: right;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+}
